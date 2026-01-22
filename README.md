@@ -1,4 +1,4 @@
-## Hi there I am Ana Lucia
+##😊 Hi there I am Ana Lucia
 
 <img width="2560" height="1440" alt="Banner Youtube Pixel Art Neón Colorido" src="https://github.com/user-attachments/assets/6387dff2-5df3-4afc-8625-b242dd34d265" />
 
