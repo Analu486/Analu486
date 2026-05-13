@@ -9,8 +9,5 @@
 
 🎯 My specialty? Translating complex numbers into clear demand forecasting, strategic documentation, and actionable business insights.
 
-🛒 A clear example of this is my Customer Segmentation for a Grocery Store project (available on my GitHub), where I applied data analytics to understand consumer behavior and uncover growth opportunities within the retail sector.
-
-
 ✨ My goal is to drive continuous improvement in organizations looking to transform their data into competitive advantages, whether by optimizing international logistics or boosting operational efficiency through predictive analytics. I truly believe in teamwork with a human purpose: data guides the way, but people drive the success.
 
