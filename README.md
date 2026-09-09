@@ -25,7 +25,7 @@ I specialize in optimizing **Supply Chain operations, Demand Forecasting, Invent
 - Designed an inventory management model for pharmaceuticals, categorizing generics, antibiotics, and line products under strict COFEPRIS regulations.
 - Improved inventory traceability by **60%**, reduced product expiration losses (FEFO), and automated purchase order triggers.
 
-#### 📂 [Retail Demand Forecasting & Customer Segmentation](LINK_A_TU_REPO)
+#### 📂 [Retail Demand Forecasting & Customer Segmentation]
 - Built predictive models in **Python** and dashboards in **Tableau** to analyze SKU velocity and customer purchasing patterns.
 - Transitioned inventory replenishment strategies from broad estimates to segment-driven demand planning.
 
