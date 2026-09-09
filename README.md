@@ -1,6 +1,7 @@
 
 <img width="2560" height="1440" alt="BANNER PARA GITHUB" src="https://github.com/user-attachments/assets/ea6a404a-d3a6-4d44-b5c9-8d7b65879195" />
 # Hi, I'm Ana Lucía Contreras González 👋
+
 ### Supply Chain Analyst | Demand Planning & Inventory Specialist | Data Analytics
 
 I specialize in optimizing **Supply Chain operations, Demand Forecasting, Inventory Control, and Procurement** by transforming massive datasets (+32M rows) into actionable operational strategies using **Python, SQL, Power BI, and Tableau**.
